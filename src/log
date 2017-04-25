@@ -1,0 +1,46 @@
+['# I am happy #', '# happy is an emotion #', '# I am not happy #', '# Our work suggests that neuroevolution approaches can be competitive #', '# In particular, note that the submarine in Seaquest correctly learns to go up when its oxygen reaches low levels #']
+set(['emotion', 'reaches', 'is', 'am', 'Seaquest', 'neuroevolution', 'an', 'in', 'go', 'its', '#', 'learns', 'to', 'when', 'note', 'submarine', 'low', 'correctly', 'happy', 'be', 'that', 'I', 'approaches', 'levels', 'competitive', 'not', 'oxygen', 'work', 'up', 'particular,', 'suggests', 'can', 'In', 'Our', 'the'])
+35
+P(emotion|an) = 0.5
+P(reaches|oxygen) = 1.0
+P(is|happy) = 0.333333333333
+P(am|I) = 0.666666666667
+P(Seaquest|in) = 0.5
+P(neuroevolution|that) = 0.5
+P(an|is) = 1.0
+P(in|submarine) = 1.0
+P(go|to) = 1.0
+P(its|when) = 1.0
+P(#|emotion) = 1.0
+P(#|happy) = 0.666666666667
+P(#|levels) = 1.0
+P(#|competitive) = 1.0
+P(learns|correctly) = 1.0
+P(to|learns) = 1.0
+P(when|up) = 1.0
+P(note|particular,) = 1.0
+P(submarine|the) = 1.0
+P(low|reaches) = 1.0
+P(correctly|Seaquest) = 1.0
+P(happy|am) = 0.5
+P(happy|#) = 0.1
+P(happy|not) = 0.5
+P(be|an) = 0.5
+P(be|can) = 1.0
+P(that|note) = 1.0
+P(that|suggests) = 1.0
+P(I|#) = 0.3
+P(approaches|neuroevolution) = 1.0
+P(levels|low) = 1.0
+P(competitive|be) = 1.0
+P(not|am) = 0.5
+P(not|particular,) = 1.0
+P(oxygen|its) = 1.0
+P(work|Our) = 1.0
+P(up|go) = 1.0
+P(particular,|In) = 1.0
+P(suggests|work) = 1.0
+P(can|approaches) = 1.0
+P(In|#) = 0.1
+P(Our|#) = 0.1
+P(the|that) = 0.5
